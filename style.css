@@ -1,0 +1,27 @@
+ body{
+    margin: 0px;
+}
+header{
+    background-color:lightslategray;
+    display: flex;
+    height: 60px;
+    width: 100%;
+}
+img{
+    cursor: pointer;
+}
+ul {
+    padding-left: 200px;
+    text-align: center;
+    list-style-type: none;
+    display: flex;
+    cursor: pointer;
+}
+li{
+    padding-left: 40px;
+    font-size: 20px;
+}
+.button{
+    padding-left:720px;
+    cursor: pointer;
+}
